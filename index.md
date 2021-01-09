@@ -20,8 +20,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 1. Numbered
 2. List
 
-A Quote
-> Quote
+**A Quote**
+> *Quote*
 
 Basic Commands
 ```
@@ -37,10 +37,6 @@ Basic Commands
 **Bold** and _Italic_ and `Code` text
 
 [Other files](documents/README.md)
-
-@jonjhmoon what do you think of this page?
-
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
