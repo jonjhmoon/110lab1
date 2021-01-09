@@ -8,23 +8,42 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+### Pictures
+![Image](src)
+### Links
+[Link](url) 
+### Lists
+- list 1
+  - list 2
+- list 3
 
 1. Numbered
 2. List
 
+A Quote
+> Quote
+
+Basic Commands
+```
+  Ctrl + c copy
+  Ctrl + v paste
+```
+
+- [x] Create a good file
+- [ ] Add changes to git
+- [ ] Commit changes to git
+
+
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Other files](documents/README.md)
+
+@jonjhmoon what do you think of this page?
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
